@@ -1,0 +1,9 @@
+.main_div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    border-radius: 30px; ;
+}
